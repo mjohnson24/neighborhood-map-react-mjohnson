@@ -14,7 +14,7 @@ You can clone the project here on github -> https://github.com/mjohnson24/neighb
 
 Follow these steps:
 
-1. Install node from the link above
+1. Install node.js
 1. Clone this repository to your computer by [clicking here]
 1. Install all the dependencies with `npm install`
 1. Launch the app with this command `npm start`
