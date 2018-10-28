@@ -4,7 +4,7 @@ This is the **Udacity Neighborhood Map Project**. It's intended as a challenge t
 
 The app allows you to filter the list down as you type. In return, it displays the locations on the map.
 
-You can clone the project here on github -> https://www.github.com/mjohnson24
+You can clone the project here on github -> https://github.com/mjohnson24/neighborhood-map-react-mjohnson
 
 ## Features
 
