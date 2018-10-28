@@ -21,12 +21,11 @@ body {
 
 .search-area {
   position: absolute;
-  max-height: 75%;
   overflow: auto;
-  left: 0.5%;
-  top: 1%;
   z-index: 2;
   background-color: #269abc;
+  height: 100%;
+  opacity: 0.7;
 }
 
 .search-input {
