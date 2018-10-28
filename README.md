@@ -19,4 +19,4 @@ Follow these steps:
 1. Install all the dependencies with `npm install`
 1. Launch the app with this command `npm start`
 
-The app will launch in your browser at the address[http://localhost:3000/](http://localhost:3000/).
+The app will launch in your browser at the address [http://localhost:3000/](http://localhost:3000/).
