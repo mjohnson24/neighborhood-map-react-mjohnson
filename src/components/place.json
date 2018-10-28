@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Shreveport Ink",
+    "type": "Tattoo Company",
+    "latitude": 32.39488314867296,
+    "longitude": -93.81043195724487
+  },
+  {
+    "name": "Crawdaddys Kitchen",
+    "type": "Cajun Restuarant",
+    "latitude": 32.397229443028046,
+    "longitude": -93.80987405776978
+  },
+  {
+    "name": "Southernmaid Donuts",
+    "type": "Donut Shop",
+    "latitude": 32.39637789922914,
+    "longitude": -93.80897283554077
+  },
+  {
+    "name": "DMV",
+    "type": "Department of Motor Vehicles",
+    "latitude": 32.39643225332857,
+    "longitude": -93.80751371383667
+  },
+  {
+    "name": "Fun Shop Too",
+    "type": "Costume Shop",
+    "latitude": 32.394140293738275,
+    "longitude": -93.8127064704895
+  }
+]
